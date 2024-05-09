@@ -222,7 +222,7 @@ import {
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/J4mesdiamond/Dashtwo",
+      source_code_link: "https://incognito-razer.netlify.app/",
     },
     {
       name: "Sapphire",
@@ -246,9 +246,9 @@ import {
       source_code_link: "https://sapphires-radical-site-d80611.webflow.io/",
     },
     {
-      name: "To-DO List App",
+      name: "brianholdingltd",
       description:
-        "The To-Do List app is designed natively, providing a seamless user experience across devices. Its clean interface, enhanced by CSS styling, offers a visually appealing way to manage tasks efficiently.",
+        "Brian Gale Holdings, established on January 28, 2021, is a private limited company (registration number 13163975) operating under SIC code 64209. Specializing in managing subsidiary companies and their assets, the company prioritizes discretion and flexibility. ",
       tags: [
         {
           name: "Native",
@@ -260,7 +260,7 @@ import {
         },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/J4mesdiamond/toDo-app",
+      source_code_link: "https://brianholdingltd.com/",
     },
     {
       name: "LVD Store",

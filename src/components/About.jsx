@@ -18,7 +18,7 @@ const ServiceCard = ({ index, title, icon }) => {
                 speed: 450
             }}
             className="bg-tertiary rounded-[20px] py-5 px-12 min-h-[280px] flex justify-evenly items-center flex-col">
-                <img src={icon} alt={title} className="w-16 h-16 object-contain"/>
+                <img src={icon} alt={title} className="object-contain w-16 h-16"/>
                 <h3 className="text-white text-[20px] font-bold text-center">{title}</h3>
             </div>
         </motion.div>
@@ -45,12 +45,12 @@ const About = () => {
            As a seasoned software developer with a deep expertise in JavaScript and TypeScript, I specialize in leveraging cutting-edge frameworks such as React.js, Node.js, and Three.js to deliver innovative solutions. My dedication to continuous learning and staying at the forefront of technology ensures that I provide you with the most advanced and efficient solutions tailored to your needs. With a proven track record in rapid learning, collaborative problem-solving, and being a team player, I excel in developing scalable, user-friendly software that not only meets but exceeds expectations. My mission is to transform your ideas into impactful, real-world products that address and solve complex challenges. Let's embark on this journey together to bring your vision to life!
         </motion.p>
         <motion.div>
-            <a download="" href="https://firebasestorage.googleapis.com/v0/b/my-portfolio-9f8a9.appspot.com/o/Patrick-Portfolio.pdf?alt=media&token=7212f652-b715-419e-acaf-50c48aeb6def" class="button button--flex" target='_blank'>
+            <a download="" href="https://nwakezepatrick.tiiny.site/" class="button button--flex" target='_blank'>
                 Download CV <span class="material-symbols-outlined">download</span>
             </a>
         </motion.div>
 
-        <div className="mt-20 flex flex-wrap gap-10">
+        <div className="flex flex-wrap gap-10 mt-20">
             {services.map((service, index) => (
                 <ServiceCard key={service.title} index={index} {...service} />
             ))}
