@@ -250,7 +250,7 @@ import {
       description:
         "Brian Gale Holdings, established on January 28, 2021, is a private limited company (registration number 13163975) operating under SIC code 64209. Specializing in managing subsidiary companies and their assets, the company prioritizes discretion and flexibility. ",
       tags: [
-        {
+        { 
           name: "Native",
           color: "blue-text-gradient",
         },
