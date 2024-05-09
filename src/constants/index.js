@@ -178,7 +178,7 @@ import {
   const testimonials = [
     {
       testimonial:
-        "I'm thoroughly impressed by Ufuoma My Music site; it was executed exceptionally and delivered well ahead of schedule.",
+        "I'm thoroughly impressed by Patrick My Music site; it was executed exceptionally and delivered well ahead of schedule.",
       name: "LAX",
       designation: "Musical Artist",
       // company: "Acme Co",
@@ -186,7 +186,7 @@ import {
     },
     {
       testimonial:
-        "His dedication, coding expertise, and problem-solving skills have greatly contributed to our success. Ufuoma's commitment to quality and meeting deadlines makes him an invaluable asset.",
+        "His dedication, coding expertise, and problem-solving skills have greatly contributed to our success. Patrick's commitment to quality and meeting deadlines makes him an invaluable asset.",
       name: "Uwadia Victor",
       designation: "COO",
       company: "Incognito Tech Solutions",
@@ -194,7 +194,7 @@ import {
     },
     {
       testimonial:
-        "After Ufuoma optimized our app, our traffic increased by 50%. We can't thank him enough!",
+        "After Patrick optimized our app, our traffic increased by 50%. We can't thank him enough!",
       name: "Femi Akinbote ",
       designation: "Coperate Strategist",
       company: "CI finesser",
